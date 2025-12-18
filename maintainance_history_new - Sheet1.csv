@@ -1,0 +1,18 @@
+vehicle_id,service_date,service_type,odometer_km,component,issue_description,dtc_code,repair_action,downtime_hours,workshop_city,under_warranty
+VEH0001,2022-03-10,Scheduled Service,15000,Engine,Periodic maintenance,NA,Oil & filters replaced,4,Mumbai,Yes
+VEH0001,2023-01-18,Unscheduled Repair,28000,Brakes,Brake noise during stopping,C1234,Front brake pads replaced,6,Mumbai,Yes
+VEH0001,2024-07-02,Breakdown Service,41000,Brakes,Reduced braking efficiency,C1234,Brake discs & pads replaced,8,Mumbai,No
+VEH0002,2021-11-12,Scheduled Service,40000,Engine,Periodic maintenance,NA,Full service,5,Delhi,Yes
+VEH0002,2023-06-20,Unscheduled Repair,61000,Battery,Low cranking voltage,P0562,Battery replaced,3,Delhi,No
+VEH0003,2022-08-03,Scheduled Service,18000,Engine,Periodic maintenance,NA,Oil change & inspection,4,Pune,Yes
+VEH0004,2021-08-11,Unscheduled Repair,65000,Engine,Engine overheating warning,P0217,Thermostat replaced & coolant flush,10,Jaipur,No
+VEH0004,2023-09-25,Breakdown Service,88000,Engine,Overheating during highway drive,P0217,Radiator replaced,12,Jaipur,No
+VEH0005,2023-01-05,Scheduled Service,10000,Battery,EV health check,NA,Software update,3,Bengaluru,Yes
+VEH0005,2024-02-22,Unscheduled Repair,21000,Battery,High discharge rate,P0562,BMS recalibration,5,Bengaluru,Yes
+VEH0005,2024-10-10,Breakdown Service,23000,Battery,Vehicle not starting,P0562,Battery module replacement,12,Bengaluru,Yes
+VEH0006,2022-06-05,Scheduled Service,45000,Brakes,Periodic maintenance,NA,Brake pads replaced,5,Hyderabad,Yes
+VEH0007,2023-03-11,Scheduled Service,25000,Engine,Periodic maintenance,NA,Oil & filter replacement,4,Coimbatore,Yes
+VEH0008,2022-05-19,Scheduled Service,60000,Engine,Periodic maintenance,NA,Major service,6,Lucknow,No
+VEH0008,2023-10-10,Unscheduled Repair,90000,Brakes,Increased stopping distance,C1234,Rear brake pads replaced,5,Lucknow,No
+VEH0009,2022-11-28,Scheduled Service,18000,Engine,Periodic maintenance,NA,Oil change,4,Nagpur,Yes
+VEH0010,2024-09-01,Scheduled Service,10000,Battery,EV system health check,NA,Software patch applied,3,Chennai,Yes

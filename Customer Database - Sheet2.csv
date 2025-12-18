@@ -1,0 +1,11 @@
+vehicle_id,Customer ID,Customer Name,Phone Number,Email,Address,Year,VIN,License Plate,Last Service Date,Insurance Cover
+VEH0001,C001,Rohan Verma,9876543210,rohan.v@gmail.com,"Mumbai, India",2019,MA3EYD32S00123456,DL3C AB1234,2025-11-20,Yes
+VEH0002,C002,Aditi Shah,9822014455,aditi.shah@gmail.com,"Delhi, India",2021,MALC281CNM123987,MH02 XY9087,2025-10-15,Yes
+VEH0003,C003,Vivek Kumar,9800123456,vivek.k@gmail.com,"Pune, India",2018,MRHGM4578KJ89234,MH12 JK3443,2025-09-08,No
+VEH0004,C004,Neha Patel,9911223344,neha.patel@yahoo.com,"Jaipur, India",2020,MAT6123NEX204579,GJ01 DB9981,2025-11-30,Yes
+VEH0005,C005,Arjun Mehta,9700456123,arjun.mehta@outlook.com,"Bengaluru, India",2017,JTNBK3CD8H0291221,KA05 MA5522,2025-08-25,No
+VEH0006,C006,Srishti Gupta,8967453421,srishti.g@gmail.com,"Hyderabad, India",2022,KNAPC81D5N723456,UP32 FW8821,2025-10-05,Yes
+VEH0007,C007,Harshit Pandey,9090901122,harshitp@hotmail.com,"Coimbatore, India",2023,MA1YU7D44PB03921,MP04 CA1121,2025-12-01,Yes
+VEH0008,C008,Priya Sharma,9876712345,priya.s@gmail.com,"Luckmow, India",2016,WVWZZZ6RZG181234,RJ14 CE6612,2025-07-19,No
+VEH0009,C009,Karan Singh,9811122233,karansingh@rediffmail.com,"Nagpur, India",2019,MAJFUPNRJL819221,CH01 BG3321,2025-09-29,Yes
+VEH0010,C010,Dhruv Joshi,9988776655,dhruv.j@gmail.com,"Chennai, India",2022,MDHFBU79N9872341,TS09 ER9911,2025-11-10,Yes
